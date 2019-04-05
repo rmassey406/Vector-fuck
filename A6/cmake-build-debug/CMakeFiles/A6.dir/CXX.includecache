@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rmass/Desktop/Comp Sci 261/Set6/A6/Functions.cpp
+iostream
+-
+string
+-
+vector
+-
+locale
+-
+Functions.h
+C:/Users/rmass/Desktop/Comp Sci 261/Set6/A6/Functions.h
+wordCount.h
+C:/Users/rmass/Desktop/Comp Sci 261/Set6/A6/wordCount.h
+
+C:/Users/rmass/Desktop/Comp Sci 261/Set6/A6/Functions.h
+iostream
+-
+string
+-
+vector
+-
+
+C:/Users/rmass/Desktop/Comp Sci 261/Set6/A6/wordCount.h
+iostream
+-
+string
+-
+vector
+-
+Functions.h
+C:/Users/rmass/Desktop/Comp Sci 261/Set6/A6/Functions.h
+

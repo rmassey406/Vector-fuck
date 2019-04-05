@@ -1,0 +1,4 @@
+ToolSet: w64 5.0 (local)@C:\Users\rmass\Downloads\mingw64\mingw64
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=C:/Users/rmass/Downloads/mingw64/mingw64/bin/mingw32-make.exe
